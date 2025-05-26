@@ -1,1 +1,0 @@
-# Custom_Guns_Object_Detection
